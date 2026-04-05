@@ -25,118 +25,78 @@ Product Manager building B2B SaaS and AI‑powered automation that transforms op
 ## 🧩 Featured Portfolio Projects
 <!-- Add 3–6 high-impact projects. Each should link to a repo or case study. -->
 
-### 🔧 Automated Data Ingestion API for Model Performance Monitoring 
+### 🔧 Automated Data Ingestion API for Model Performance Monitoring  
 #### API | Automation | Database Integration | SaaS/Cloud
-**Problem:** Executive leaders needed to monitor model performance on emerging data, but the process required manual daily uploads into cloud storage.
-This was slow, operationally heavy, and prone to delays — directly impacting decision‑making and portfolio oversight.
 
-**Solution:** Designed and delivered an API‑based ingestion workflow that automated the entire process of uploading parquet‑format data into Azure Data Lake. \
-&nbsp; **Key Capabilities:** \
-     &nbsp; &nbsp;• 🔐 Secure authentication using a service principal configured in the client’s tenant \
-     &nbsp; &nbsp;• 📦 Schema validation to ensure only compliant data is ingested \
-     &nbsp; &nbsp;• 🔄 Supports daily or continuous ingestion for real‑time model monitoring \
-     &nbsp; &nbsp;• ⚙️ Automation‑friendly — easily integrates with Databricks or any data platform \
-     &nbsp; &nbsp;• 🛡️ GDPR‑compliant data expiration and storage policies \
-     &nbsp; &nbsp;• 🚀 Production‑ready architecture enabling scale across multiple clients 
+**Problem:** Executive teams needed timely visibility into model performance, but daily data uploads were manual, slow, and error‑prone. This created operational bottlenecks and delayed portfolio‑level decision‑making.
 
-**Proof of Concept:** Led the end‑to‑end PoC validating automated data ingestion from Databricks into Azure Data Lake, defining the workflow, 
-API requirements, and authentication architecture. Partnered with engineering to implement schema validation, 
-automate ingestion via Python scripts, and deliver a full client‑ready demonstration with production‑ready artifacts. 
+**Solution:** Built an automated ingestion API that uploads parquet‑format data into Azure Data Lake with secure service‑principal authentication, schema validation, GDPR‑compliant retention, and seamless integration with Databricks and other data platforms. Designed for continuous ingestion and scalable deployment across multiple clients.
 
-**Impact:** \
-• Enabled 3 client conversions to activation, directly contributing to product adoption \
-• Eliminated manual uploads, saving hours of operational effort weekly \
-• Improved reliability and timeliness of model performance monitoring \
-• Created a scalable ingestion pattern reusable across multiple portfolios  
+**Proof of Concept:** Led the full PoC, defining workflow and API requirements, shaping the authentication architecture, and partnering with engineering to implement schema validation and automated Python‑based ingestion. Delivered a client‑ready demo and production‑ready artifacts.
 
-**My Role:** As Product Manager, I owned the full lifecycle: \
-• Defined the problem and user requirements \
-• Designed the ingestion workflow and API functionality \
-• Partnered with engineering on authentication, schema validation, and cloud architecture \
-• Led PoC execution and client demonstrations \
-• Ensured GDPR compliance and operational readiness 
-
-**Tech / Tools:** Python Notebook, Microsoft Azure Data Lake, Microsoft Azure Application (Service Principal).  
-
-
-### 🧠 AI‑Powered Insight Translator - Visualise, Summarise and Decide
-#### Gen-AI | LLM | Agents | EU AI Act
-**Problem:** Actuarial teams spend significant time manually translating complex model metrics into business‑ready insights for executive reporting. This leads to inconsistent explanations, missed context, and delays in decision‑making. Meanwhile, data scientists often lack the deep industry and regulatory knowledge required to interpret actuarial plots and advanced statistical outputs, creating misalignment and slowing down analytical workflows across the organisation. \
-**Solution:** Designed and delivered an AI‑powered Insight Translator, a UI‑based chatbot built using Agent‑to‑Agent Gen‑AI orchestration, enabling domain‑aware, persona‑specific interpretation of model results.\
-The capability includes:\
-&nbsp;• Adaptive summarisation that tailors explanations to the user’s industry knowledge, persona, and reporting needs
-&nbsp;• Pre‑defined, editable prompt templates for model‑specific metrics and statistical outputs
-&nbsp;• Embedded industry context, regulatory considerations, and emerging market trends to support decision‑making
-&nbsp;• Human‑in‑the‑loop review to ensure reliability, governance, and continuous model improvement
-&nbsp;• Feedback loops to refine explanations and improve accuracy over time
-**Impact:** The feature enabled users to generate clear, layman‑friendly summaries of complex actuarial metrics within seconds, reducing manual translation effort and accelerating reporting workflows. Adoption of previously under‑utilised advanced features increased by 50%, and teams reported faster, more confident decision‑making across actuarial and data science functions. .\
-**My Role:** As the Product Manager, I led the end‑to‑end strategy, design, and delivery of this Gen‑AI capability. I defined the core user personas and problem space, ensuring the solution addressed the real workflow gaps between actuarial teams, data scientists, and executive stakeholders. I partnered closely with engineering and data science to design the Agent‑to‑Agent architecture, shape prompt frameworks, and establish the reliability, governance, and human‑in‑the‑loop controls required for safe and auditable AI outputs. I drove iterative experimentation, model evaluation, and user testing to refine summarisation quality and domain‑aware explanations. Finally, I translated complex AI behaviour into an intuitive chatbot experience that made advanced analytics accessible to non‑technical users and accelerated insight generation across the organisation. \ 
-**Tech / Tools:**  
-
-
-### 📊 Automated Alerts 
-#### UX Simplification | Triggered Alerts | Prototyping with GitHub CoPilot | Experimentation
-**Problem:** 
-**Protoype:**
-**Validation:**
-**Solution:**  
 **Impact:**  
-**My Role:**  
-**Tech / Tools:**  
+- Activated **3 new clients**, driving product adoption  
+- Eliminated manual uploads, saving hours of operational effort weekly  
+- Improved reliability and timeliness of model monitoring  
+- Established a reusable ingestion pattern for future portfolios  
+
+**My Role:** Owned the end‑to‑end product lifecycle — defining requirements, designing the ingestion workflow and API functionality, partnering with engineering on authentication and cloud architecture, leading PoC execution and client demos, and ensuring GDPR‑aligned operational readiness.
+
+**Tech / Tools:** Python Notebook, Azure Data Lake, Azure Application (Service Principal)
+
+### 🧠 AI‑Powered Insight Translator — Visualise, Summarise, Decide  
+#### Gen‑AI | LLMs | Agents | EU AI Act
+
+**Problem:** Actuarial and data science teams spend significant time translating 
+complex model outputs into business‑ready insights. This leads to inconsistent explanations, 
+missed context, and slower decision‑making due to limited domain knowledge and fragmented reporting workflows.
+
+**Solution:** Built an AI‑powered Insight Translator — a UI chatbot using Agent‑to‑Agent orchestration — that delivers domain‑aware, persona‑specific summaries of actuarial metrics. Key capabilities include adaptive summarisation, editable prompt templates, embedded industry and regulatory context, human‑in‑the‑loop validation, and continuous feedback loops for quality improvement.
+
+**Impact:** Enabled users to generate clear, layman‑friendly summaries within seconds, reducing manual effort and accelerating reporting workflows. Adoption of complex analytics features increased by 50%, improving decision speed and confidence across teams.
+
+**My Role:** Led end‑to‑end product strategy, design, and delivery. Defined personas and requirements, shaped the agent architecture and prompt framework, established governance and HITL controls, and drove iterative experimentation and user testing. Delivered an intuitive chatbot experience that made advanced analytics accessible and significantly improved insight generation across the organisation.
+
+**Tech / Tools:** Gen‑AI & LLM Foundations, API Architecture, Domain Integration, Conversational UX patterns, Azure: Azure OpenAI, Azure Functions, App Service, Key Vault, Cosmos DB, MLOps, Figma
 
 [View Project →](#)
-
----
-
-## 📂 Repositories & Prototypes
-<!-- List repos that demonstrate your builder mindset, even if lightweight -->
-
-| Project | Description | Link |
-|--------|-------------|------|
-| Prototype / Demo | Short description of what it demonstrates | [Repo](#) |
-| Workflow Automation | Example of workflow, automation, or integration | [Repo](#) |
-| AI/LLM Experiment | Small LLM prototype or prompt engineering demo | [Repo](#) |
-| UX Concept | Figma or design-led repo | [Repo](#) |
 
 ---
 
 ## 🧭 Product Case Studies
 <!-- Add 2–4 deeper stories showing your product thinking -->
 
-### Case Study: [Title]
-- **Context:**  
-- **Problem:**  
-- **Approach:**  
-- **Outcome:**  
-- **Impact Metrics:**  
-- **Artifacts:** (screenshots, diagrams, workflows)
+### Case Study: Automated Alerts
+#### Context  
+This case study outlines the end‑to‑end journey—from ideation to launch—of an Automated Alerts feature designed to monitor model performance across large actuarial portfolios. The capability enables portfolio managers and actuarial teams to identify emerging risks and performance shifts in real time.
+#### Problem  
+Model performance is evaluated on emerging data ingested daily, generating a continuous stream of metrics across a large suite of models. Managing these portfolios manually becomes unsustainable: critical metric shifts can be missed, performance degradation may go unnoticed, and teams struggle to track model health across diverse General Insurance sectors. Without automated detection and timely alerts, leaders face delays in identifying market‑driven impacts and making informed portfolio decisions.
+#### Approach  
+As Senior Product Manager, I mapped the end‑to‑end workflow with actuarial and portfolio teams to identify where delays and risks emerged. I defined personas and alerting needs, prioritising the metric shifts that required immediate action. Partnering with data science and engineering, I shaped the alerting framework, statistical thresholds, and event‑driven workflow to ensure accuracy and scalability. I embedded governance and human‑in‑the‑loop validation to build trust, then iterated through simulations and user testing to refine signal quality and reduce noise.
+#### Outcome  
+Launched within two months of the platform’s release, the feature generated strong early market traction. It was showcased in webinars to insurance clients, resulting in a ~12% increase in demonstrations and trial requests. The alerts capability positioned the product as a proactive, insight‑driven portfolio management tool and strengthened adoption across early customers.
 
-### Case Study: [Title]
-- **Context:**  
-- **Problem:**  
-- **Approach:**  
-- **Outcome:**  
-- **Impact Metrics:**  
-- **Artifacts:**  
+
 
 ---
 
 ## 🛠️ Skills & Tooling
-### Product Skills
+#### Product Skills
 - Product strategy & roadmap ownership  
 - AI/ML product development  
 - Workflow & API design  
 - Experimentation & funnel analytics  
 - Stakeholder alignment & communication  
-- User research & discovery  
+- User research & discovery
+- Agile Framework/Methodologies
 
-### Technical Fluency
-- Python (for prototyping)  
-- LLM APIs & prompt design  
-- GitHub Copilot  
-- Cloud platforms (Azure/AWS/GCP)  
-- SQL & data analysis  
-- Workflow tools (n8n, Zapier, Make)  
+#### Technical Fluency
+- LLM APIs & prompt design
+- API Achitecture
+- Microsoft Azure
+- GitHub Copilot for Protyping
+- Cloud platforms (Azure)
+- Python 
 
 ---
 

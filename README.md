@@ -35,10 +35,10 @@ Product Manager building B2B SaaS and AI‑powered automation that transforms op
 **Proof of Concept:** Led the full PoC, defining workflow and API requirements, shaping the authentication architecture, and partnering with engineering to implement schema validation and automated Python‑based ingestion. Delivered a client‑ready demo and production‑ready artifacts.
 
 **Impact:**  
-- Activated **3 new clients**, driving product adoption  
-- Eliminated manual uploads, saving hours of operational effort weekly  
+- Onboarding of **3 new clients**, driving product adoption  
+- Automated manual uploads, optimising operational efficiency  
 - Improved reliability and timeliness of model monitoring  
-- Established a reusable ingestion pattern for future portfolios  
+- Established a infrastructure for continuous data ingestion 
 
 **My Role:** Owned the end‑to‑end product lifecycle — defining requirements, designing the ingestion workflow and API functionality, partnering with engineering on authentication and cloud architecture, leading PoC execution and client demos, and ensuring GDPR‑aligned operational readiness.
 

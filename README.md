@@ -120,7 +120,7 @@ Launched within two months of the platform’s release, the feature generated st
 
 ---
 
-## 🥇 Certifications and Appreciations
+## 🥇 Certifications
 - [AI Fundamentals](https://www.linkedin.com/posts/alisha3094_ai-generativeai-responsibleai-activity-7432892188084043776-_aGa?utm_source=share&utm_medium=member_desktop&rcm=ACoAABWSa2YBbR_efFQcUG5n8UBXSMZA6WxJ0Hg)
 - [SAFe Product Owner/Manager](https://www.linkedin.com/posts/alisha3094_wtw-wtwcareers-insurancetechnology-activity-6990127285592887296-_WRQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABWSa2YBbR_efFQcUG5n8UBXSMZA6WxJ0Hg)
 

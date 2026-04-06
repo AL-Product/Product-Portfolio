@@ -105,6 +105,7 @@ Launched within two months of the platform’s release, the feature generated st
 
 - [Thought Leadership: Ever Wondered why SMEs currently have low Adoption?](https://www.linkedin.com/feed/update/urn:li:activity:7437069010518691840/?originTrackingId=ixmliYAIFe%2BYqKGD9dQ%2B%2FQ%3D%3D)
 - [Thought Leadership: Insights I gained by rolling-up my sleeves ](https://www.linkedin.com/posts/alisha3094_product-productmanagement-mindsetshift-activity-7433984387391672320-eLAr?utm_source=share&utm_medium=member_desktop&rcm=ACoAABWSa2YBbR_efFQcUG5n8UBXSMZA6WxJ0Hg)
+- [Guest Speaker at Macquarie University, Sydney, sharing insights on data science and product innovation](https://www.linkedin.com/posts/alisha3094_gratitude-guestspeaker-education-activity-7204503119093780480-GWJY?utm_source=share&utm_medium=member_desktop&rcm=ACoAABWSa2YBbR_efFQcUG5n8UBXSMZA6WxJ0Hg)
 
 ---
 ## 🥇 Product Achievements

@@ -27,7 +27,8 @@ Product Manager building B2B SaaS and AI‑powered automation that transforms op
 
 ### 🔧 Automated Data Ingestion API for Model Performance Monitoring  
 #### API | Automation | Database Integration | SaaS/Cloud
-
+<div align="justify">
+  
 **Problem:** Executive teams needed timely visibility into model performance, but daily data uploads were manual, slow, and error‑prone. This created operational bottlenecks and delayed portfolio‑level decision‑making.
 
 **Solution:** Built an automated ingestion API that uploads parquet‑format data into Azure Data Lake with secure service‑principal authentication, schema validation, GDPR‑compliant retention, and seamless integration with Databricks and other data platforms. Designed for continuous ingestion and scalable deployment across multiple clients.
@@ -70,12 +71,12 @@ This case study outlines the end‑to‑end journey—from ideation to launch—
 #### Problem  
 Model performance is evaluated on emerging data ingested daily, generating a continuous stream of metrics across a large suite of models. Managing these portfolios manually becomes unsustainable: critical metric shifts can be missed, performance degradation may go unnoticed, and teams struggle to track model health across diverse General Insurance sectors. Without automated detection and timely alerts, leaders face delays in identifying market‑driven impacts and making informed portfolio decisions.
 #### Approach  
-As Senior Product Manager, I mapped the end‑to‑end workflow with actuarial and portfolio teams to identify where delays and risks emerged. I defined personas and alerting needs, prioritising the metric shifts that required immediate action. Partnering with data science and engineering, I shaped the alerting framework, statistical thresholds, and event‑driven workflow to ensure accuracy and scalability. I embedded governance and human‑in‑the‑loop validation to build trust, then iterated through simulations and user testing to refine signal quality and reduce noise.
+As Senior Product Manager, I strategised the end‑to‑end workflow with actuarial and portfolio teams to identify where delays and risks emerged. I defined personas and alerting needs, prioritising the metric shifts that required immediate action. Partnering with data science and engineering, I shaped the alerting framework, statistical thresholds, and event‑driven workflow to ensure accuracy and scalability. I embedded governance and human‑in‑the‑loop validation to build trust, then iterated through simulations and user testing to refine signal quality and reduce noise.
 #### Outcome  
 Launched within two months of the platform’s release, the feature generated strong early market traction. It was showcased in webinars to insurance clients, resulting in a ~12% increase in demonstrations and trial requests. The alerts capability positioned the product as a proactive, insight‑driven portfolio management tool and strengthened adoption across early customers.
 
 
-
+</div>
 ---
 
 ## 🛠️ Skills & Tooling

@@ -60,6 +60,12 @@ missed context, and slower decision‑making due to limited domain knowledge and
 
 **Tech / Tools:** Gen‑AI & LLM Foundations, API Architecture, Domain Integration, Conversational UX patterns, Azure: Azure OpenAI, Azure Functions, App Service, Key Vault, Cosmos DB, MLOps, Figma
 
+<p align="left">
+  <a href="https://github.com/users/AL-Product/projects/1" target="_blank">
+    <b>🔍 View Project here -> </b>
+  </a>
+</p>
+
 ---
 
 ## 🧭 Product Case Studies

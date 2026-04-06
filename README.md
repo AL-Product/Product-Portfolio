@@ -114,6 +114,22 @@ Launched within two months of the platform’s release, the feature generated st
 
 ---
 
+## 🥇 Certifications and Appreciations
+- [AI Fundamentals](https://www.linkedin.com/posts/alisha3094_ai-generativeai-responsibleai-activity-7432892188084043776-_aGa?utm_source=share&utm_medium=member_desktop&rcm=ACoAABWSa2YBbR_efFQcUG5n8UBXSMZA6WxJ0Hg)
+- [SAFe Product Owner/Manager](https://www.linkedin.com/posts/alisha3094_wtw-wtwcareers-insurancetechnology-activity-6990127285592887296-_WRQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABWSa2YBbR_efFQcUG5n8UBXSMZA6WxJ0Hg)
+
+---
+
+## Want to know what others say about me?
+
+- **Hear directly from the colleagues I've worked with** — real stories, real impact  
+  👉 [Read their recommendations](https://www.linkedin.com/in/alisha3094/details/recommendations/?detailScreenTabIndex=0)
+
+- **Curious what my professors thought of me during my Masters?**  
+  👉 [See their words and recognition](https://www.linkedin.com/posts/alisha3094_macquarieuniversity-departmentofmathematicsandstatistics-activity-6835935151034396672-uMFe?utm_source=share&utm_medium=member_desktop&rcm=ACoAABWSa2YBbR_efFQcUG5n8UBXSMZA6WxJ0Hg)
+
+---
+
 ## 📫 Connect With Me
 - **LinkedIn:** Https://www.linkedin.com/in/alisha3094  
 - **Email:** Alishamehta3012@gmail.com

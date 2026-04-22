@@ -289,8 +289,6 @@ Launched within **two months** of the platform's initial release — one of the 
 
 ---
 ## 🥇 Product Achievements
-- [Radar Vision - Product I worked on at WTW](https://www.linkedin.com/posts/wtw-ict_radarvision-modelmonitoring-portfoliomanagement-ugcPost-7315554290821918721--QOb?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABWSa2YBbR_efFQcUG5n8UBXSMZA6WxJ0Hg)  
-
 | Achievement | Impact | Year |
 |---|---|---|
 | Launched Automated Alerts 0→1 | 12% increase in demo requests | 2025 |
@@ -298,6 +296,8 @@ Launched within **two months** of the platform's initial release — one of the 
 | Data Ingestion API | 3 enterprise clients onboarded (£10M ARR)| 2024 |
 | Complex Feature Delivery - Custom Loss Functionality| Activation ~2 clients (£4M ARR) | 2023 |
 | Migration from Legacy to SaaS | Retention ~97% | 2022 |
+
+- [Radar Vision - Product I worked on at WTW](https://www.linkedin.com/posts/wtw-ict_radarvision-modelmonitoring-portfoliomanagement-ugcPost-7315554290821918721--QOb?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABWSa2YBbR_efFQcUG5n8UBXSMZA6WxJ0Hg)  
 
 ## 🥇 Personal Achievements
 | Achievement | Impact | Year |

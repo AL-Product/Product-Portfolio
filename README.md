@@ -124,11 +124,6 @@ I defined a tiered validation framework that flagged anomalies without blocking 
 **Tech Stack**
 Python · Azure Data Lake Gen2 · Azure Active Directory (Service Principal)· Databricks · Parquet · REST API · GDPR Retention Policies · Schema Validation Frameworks
 
-<p align="left">
-  <a href="https://github.com/users/AL-Product/projects/1" target="_blank">
-    <b>🔍 View Project here -> </b>
-  </a>
-</p>
 </div>
 ---
 
@@ -328,8 +323,10 @@ Launched within **two months** of the platform's initial release — one of the 
 
 ---
 
-## 📫 Connect With Me
-- **LinkedIn:** Https://www.linkedin.com/in/alisha3094  
-- **Email:** Alishamehta3012@gmail.com
+## 📫 Let's Talk
+I'm currently open to Senior PM and Lead PM roles in AI, data platforms, and regulated B2B SaaS.
 
-Thanks for stopping by — always happy to connect with builders, designers, and engineers.
+If you're building something ambitious and need a PM who can work at the intersection of engineering, data, and business strategy — let's connect.
+
+**LinkedIn:** https://www.linkedin.com/in/alisha3094
+**Email:** alishamehta3012@gmail.com

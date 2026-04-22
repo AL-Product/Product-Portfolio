@@ -235,7 +235,6 @@ Launched within **two months** of the platform's initial release — one of the 
 ---
 
 ## 🛠️ Skills & Tooling
-## 🛠️ Skills & Tooling
 
 ### Product & Strategy
 
@@ -296,11 +295,24 @@ Launched within **two months** of the platform's initial release — one of the 
 ---
 ## 🥇 Product Achievements
 - [Radar Vision - Product I worked on at WTW](https://www.linkedin.com/posts/wtw-ict_radarvision-modelmonitoring-portfoliomanagement-ugcPost-7315554290821918721--QOb?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABWSa2YBbR_efFQcUG5n8UBXSMZA6WxJ0Hg)  
+
+| Achievement | Impact | Year |
+|---|---|---|
+| Launched Automated Alerts 0→1 | 12% increase in demo requests | 2025 |
+| AI Insight Translator | 50% adoption increase | 2025 |
+| Data Ingestion API | 3 enterprise clients onboarded (£10M ARR)| 2024 |
+| Complex Feature Delivery - Custom Loss Functionality| Activation ~2 clients (£4M ARR) | 2023 |
+| Migration from Legacy to SaaS | Retention ~97% | 2022 |
+
+## 🥇 Personal Achievements
+| Achievement | Impact | Year |
+|---|---|---|
+| Guest Speaker — Macquarie University | Data Science & Product Innovation | 2023 |
+| Promotion | 2 Promotions at WTW | 2023 & 2025 |
+| SAFe PM/PO Certified | Scaled Agile Framework | 2022 |
+| AI Fundamentals Certified | Generative AI & Responsible AI | 2024 |
+
 - [Recognition at WTW](https://www.linkedin.com/posts/alisha3094_insuranceconsultingandtechnology-productgrowth-share-7284572680169627648-zgx7?utm_source=share&utm_medium=member_desktop&rcm=ACoAABWSa2YBbR_efFQcUG5n8UBXSMZA6WxJ0Hg) 
-
----
-
-## 🥇 Certifications
 - [AI Fundamentals](https://www.linkedin.com/posts/alisha3094_ai-generativeai-responsibleai-activity-7432892188084043776-_aGa?utm_source=share&utm_medium=member_desktop&rcm=ACoAABWSa2YBbR_efFQcUG5n8UBXSMZA6WxJ0Hg)
 - [SAFe Product Owner/Manager](https://www.linkedin.com/posts/alisha3094_wtw-wtwcareers-insurancetechnology-activity-6990127285592887296-_WRQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABWSa2YBbR_efFQcUG5n8UBXSMZA6WxJ0Hg)
 

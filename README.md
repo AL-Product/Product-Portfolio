@@ -3,9 +3,10 @@ README Template for Product Manager Portfolio
 Fill in each section as you build your repos, case studies, and demos.
 -->
 
-# 👋 Hi, I am Alisha — Product Manager
-## B2B SaaS | AI/ML | Automation
-Product Manager building B2B SaaS and AI‑powered automation that transforms operational bottlenecks into measurable business outcomes.
+# 👋 Hi, I am Alisha — Senior Technical Product Manager
+## B2B SaaS | International Expansion | AI & Data Platform
+Senior Technical Product Manager delivering B2B SaaS and AI-powered solutions that convert operational inefficiencies into scalable business outcomes. 
+Expertise in operating in ambiguous environments and building structured, repeatable mechanisms to accelerate product delivery and global expansion.
 
 ---
 
@@ -23,7 +24,6 @@ Product Manager building B2B SaaS and AI‑powered automation that transforms op
 ---
 
 ## 🧩 Featured Portfolio Projects
-<!-- Add 3–6 high-impact projects. Each should link to a repo or case study. -->
 
 ### 🔧 Automated Data Ingestion API for Model Performance Monitoring  
 #### API | Automation | Database Integration | SaaS/Cloud

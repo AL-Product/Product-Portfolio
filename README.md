@@ -4,8 +4,6 @@
 
 Senior PM with 5+ years shipping ML-based SaaS products from zero to enterprise scale. My background spans AI/ML product development, data-driven roadmap execution, and translating complex model capabilities into experiences that real users trust and adopt. I bring a rare combination: a Master's in Applied Statistics, EU AI Act certification, and hands-on experience leading cross-functional teams of 30+ across engineering, design, and data science.
 
-Now focused on **EdTech** and **Fintech/Insurtech** — spaces where AI can genuinely change how people learn, manage risk, and build financial resilience.
-
 📍 Based in Barcelona | 🌍 Open to remote (European timezone)
 
 ---

@@ -8,7 +8,7 @@ Product Manager with 5+ years shipping ML-based SaaS products from zero to enter
 
 ---
 
-## ⚡ What I Bring to a Senior PM Role
+## ⚡ What I Bring to a PM Role
 
 **AI Product Delivery — end to end**
 From LLM orchestration and agent architecture to user-facing conversational tools — I have shipped AI features in regulated industries where accuracy, governance, and explainability are non-negotiable. I understand what it takes to make AI trustworthy for real users, not just technically impressive.

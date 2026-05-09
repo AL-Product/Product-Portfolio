@@ -1,8 +1,8 @@
-# 👋 Hi, I am Alisha — Product Manager
+# 👋 Hi, I am Alisha Malik — Sr. Product Manager
 
 ## I build AI-powered products that create measurable impact for real people — not just enterprise dashboards.
 
-Product Manager with 5+ years shipping ML-based SaaS products from zero to enterprise scale. My background spans AI/ML product development, data-driven roadmap execution, and translating complex model capabilities into experiences that real users trust and adopt. I bring a rare combination: a Master's in Applied Statistics, EU AI Act certification, and hands-on experience leading cross-functional teams of 30+ across engineering, design, and data science.
+Technical Product Manager with 5+ years shipping ML-based SaaS products from zero to enterprise scale. My background spans AI/ML product development, data-driven roadmap execution, and translating complex model capabilities into experiences that real users trust and adopt. I bring a rare combination: a Master's in Applied Statistics, EU AI Act certification, and hands-on experience leading cross-functional teams of 30+ across engineering, design, and data science.
 
 📍 Based in Barcelona | 🌍 Open to remote (European timezone)
 
